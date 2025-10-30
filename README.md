@@ -23,9 +23,3 @@ It provides an interactive view of sales performance using **Pivot Tables**, **S
 - Dashboard layout and design techniques in Excel  
 
 ---
-
-## ⚙️ How to Use
-
-1. **Download or clone** the repository  
-   ```bash
-   git clone https://github.com/your-username/coffee-sales-dashboard.git
